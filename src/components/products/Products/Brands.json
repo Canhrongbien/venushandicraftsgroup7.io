@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "Name":"Venus",
+        "path":"brands/1"
+
+    },
+    {
+        "id": 2,
+        "Name":"Chuny",
+        "path":"brands/2"
+    },
+    {
+        "id": 3,
+        "Name":"GYDBJ",
+        "path":"brands/3"
+    },
+    {
+        "id": 4,
+        "Name":"Jaipur",
+        "path":"brands/4"
+    },
+    {
+        "id": 5,
+        "Name":"YSHP",
+        "path":"brands/5"
+    },
+    {
+        "id": 6,
+        "Name":"Hario",
+        "path":"brands/6"
+    },
+    {
+        "id": 7,
+        "Name":"Joyboy",
+        "path":"brands/7"
+    },
+    {
+        "id": 8,
+        "Name":"Glass Art Stories",
+        "path":"brands/8"
+    },
+    {
+        "id": 9,
+        "Name":"Other Brands",
+        "path":"brands/9"
+    }
+
+]

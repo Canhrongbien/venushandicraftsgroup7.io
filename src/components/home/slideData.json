@@ -1,0 +1,28 @@
+
+[
+    { "id": 1,
+      "image":"/images/slide1.png",
+      "title": "High-quality handicrafts",
+      "content": "We provide many handicraft products with many diverse categories."
+      },
+    { "id": 2,
+      "image":"/images/slide2.png",
+      "title": "Keep track of resolution times",
+      "content": "Handicrafts helps you save beautiful moments. "
+      },
+    { "id": 3,
+      "image":"/images/slide3.png",
+      "title": "Rich in regional identity",
+      "content": "We supply products from many countries, especially Vietnam and India."
+      },
+    { "id": 4,
+      "image":"/images/slide4.png",
+      "title": "Sophistication in each product",
+      "content": "The products are delicately carved and painted"
+      },
+    { "id": 5,
+      "image":"/images/slide5.png",
+      "title": "Close to nature",
+      "content": "Our products are prioritized for production using natural materials such as wood and stone"
+      }
+    ]

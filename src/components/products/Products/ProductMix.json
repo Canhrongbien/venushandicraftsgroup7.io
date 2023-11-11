@@ -1,0 +1,20 @@
+{
+    "Material" : [
+      {"id": 1, "Name": "Iron Handicrafts", "path": "products/1"},
+      {"id": 2, "Name": "Glass Handicrafts", "path": "products/2"},
+      {"id": 3, "Name": "Aluminium Handicrafts", "path": "products/3"},
+      {"id": 4, "Name": "Wood Handicrafts", "path": "products/4"},
+      {"id": 9, "Name": "Brass Handicrafts", "path": "products/9"}
+    ],
+   "Decoration" : [
+      {"id": 5, "Name": "Home Decor", "path": "products/5"},
+      {"id": 6, "Name": "Candle Accessories", "path": "products/6"}
+    ],
+    "Usage" : [
+      {"id": 7, "Name": "Table wares", "path": "products/7"},
+      {"id": 8, "Name": "Handicrafts Decorative", "path": "products/8"}
+    ],
+    "Others" : [     
+      {"id": 10, "Name": "Others", "path": "products/10"}
+    ]
+  }

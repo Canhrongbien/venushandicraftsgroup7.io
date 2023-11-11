@@ -1,0 +1,33 @@
+.bestsaler{
+    position: relative;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    &-button{
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        a{
+            color: #460ec9;
+            text-decoration: none;
+        }
+    }
+    &-container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        &-item{
+            margin: 3px;
+            max-width:20rem;
+            font-size:medium;
+            h3 {
+                color: rgb(95, 9, 9);
+            }
+        }
+    }
+    
+}

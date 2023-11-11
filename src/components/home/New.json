@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Soft and smooth design​​​​​",
+        "content": "The living room decorative pillow collection is made entirely from 100% cotton and will give you a soft feeling, making your living room space luxurious.",
+        "img" : "/images/newsImages/slidenew1.jpg",
+        "path" : "http://localhost:3000/products/5/detail/4"
+    },
+    {
+        "id": 2,
+        "title": " Sophistication in each knitting thread",
+        "content": "Baskets and boxes are woven from water hyacinth plants by skilled artisans. The product is a combination of simplicity and sophistication, and is environmentally friendly.",
+        "img" : "/images/newsImages/slidenew2.jpg",
+        "path" : "http://localhost:3000/products/4/detail/11"
+    },
+    {
+        "id": 3,
+        "title": "Unique in each product​",
+        "content": "Using coconut tree trunks, Vietnamese artisans have produced many household goods from cups, chopsticks, teapots, to decorative items such as wind chimes and lanterns.",
+        "img" : "/images/newsImages/slidenew3.jpg",
+        "path" : "http://localhost:3000/products/4/detail/13"
+    },
+    {
+        "id": 4,
+        "title": "Graceful",
+        "content": "The conical hat is a typical symbol of Vietnamese people in general and women. Vietnam in particular. Now you can own a lovely conical hat through Venus Handicrafts.",
+        "img" : "/images/newsImages/slidenew4.jpg",
+        "path" : "http://localhost:3000/products/10/detail/14"
+    }
+]
